@@ -3,7 +3,7 @@ import Navbar from '../pages/Navbar';
 import Footer from '../pages/footer';
 import Btech from './Btech';
 import Mtech from './Mtech';
-import MCA from './MCA';
+import MCA from './Mca';
 
 
 const Course = () => {

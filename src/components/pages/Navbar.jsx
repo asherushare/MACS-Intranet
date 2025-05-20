@@ -1,6 +1,6 @@
 import React, { useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
-import Home from "./home";
+import Home from "./Home";
 
 const MenuItem = ({ label, items, to }) => {
   const [open, setOpen] = useState(false);

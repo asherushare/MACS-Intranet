@@ -4,7 +4,7 @@ import './App.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/pages/Home';
 import Login from './components/auth/Login';
-import Register from './components/auth/register';
+import Register from './components/auth/Register';
 import Placement from './components/pages/Placement';
 import Faq from './components/pages/Faq';
 import Aboutus from './components/pages/Aboutus';
